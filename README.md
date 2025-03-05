@@ -1,6 +1,5 @@
 # Praktikum_AI_workflow
 Samsa faridah_ 2306139
-# README: Analisis Penjualan dan Stok
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis hubungan antara jumlah penjualan dan stok produk menggunakan visualisasi data. Analisis dilakukan dengan menggunakan dataset `data_penjualan_latihan.csv` dan script dalam file `praktikum_ai.ipynb`.
